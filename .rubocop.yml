@@ -1,7 +1,9 @@
-LineLength:
+inherit_from: .rubocop_todo.yml
+
+Layout/LineLength:
   Max: 120
 
-Documentation:
+Style/Documentation:
   Enabled: false
 
 AllCops:

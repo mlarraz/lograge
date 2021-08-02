@@ -17,7 +17,7 @@ require 'lograge/ordered_options'
 require 'active_support/core_ext/module/attribute_accessors'
 require 'active_support/core_ext/string/inflections'
 
-# rubocop:disable ModuleLength
+# rubocop:disable Metrics/ModuleLength
 module Lograge
   module_function
 
